@@ -4,8 +4,11 @@
 ## 下面是一组截图
 
 ![](https://github.com/Android-Star/RecordDemo/blob/master/screenShots/Screenshot_2018-02-08-16-42-26-431_com.example.wilsonhan.recorddemo.png)
+
 ![](https://github.com/Android-Star/RecordDemo/blob/master/screenShots/Screenshot_2018-02-08-16-42-31-980_com.example.wilsonhan.recorddemo.png)
+
 ![](https://github.com/Android-Star/RecordDemo/blob/master/screenShots/Screenshot_2018-02-08-16-42-37-280_com.example.wilsonhan.recorddemo.png)
+
 ![](https://github.com/Android-Star/RecordDemo/blob/master/screenShots/Screenshot_2018-02-08-16-42-52-635_com.example.wilsonhan.recorddemo.png)
 
 
