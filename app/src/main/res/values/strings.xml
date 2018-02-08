@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecordDemo</string>
+
+
+    <string name="str_btn_normal">按下 说话</string>
+    <string name="str_btn_recording">松开 发送</string>
+    <string name="str_btn_cancel">松开 取消发送</string>
+
+
+    <string name="permission_cus_item_camera">照相机</string>
+    <string name="permission_cus_item_read">读取sd卡</string>
+    <string name="permission_cus_item_write">修改sd卡</string>
+    <string name="permission_cus_item_phone">手机状态</string>
+    <string name="permission_cus_item_audio">录音</string>
+</resources>
