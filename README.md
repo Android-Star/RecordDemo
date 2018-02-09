@@ -1,5 +1,5 @@
 # RecordDemo
-一个基于Android系统的仿微信语音实现
+一个基于Android系统的仿微信语音实现.
 
 ## 下面是一组截图
 
